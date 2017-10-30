@@ -225,7 +225,7 @@ Troubleshooting
   #. SPI only works with 3.3V, most breakouts seem 5V tollerant, but try a level shifter.
   #. SPI do not like long connections. Try shorter connections.
   #. SPI do not like prototyping boards. Maybe try a soldered connections.
-  #. According to reports #101, #126 and #131, there may be a problem with the soldering on the MFRC522 breakout. You could fix this on your own.
+  #. According to reports `#101 <https://github.com/miguelbalboa/rfid/issues/101>`_, `#126 <https://github.com/miguelbalboa/rfid/issues/126>`_ and `#131 <https://github.com/miguelbalboa/rfid/issues/131>`_, there may be a problem with the soldering on the MFRC522 breakout. You could fix this on your own.
 
 
 * **Sometimes I get timeouts** or **sometimes tag/card does not work.**
